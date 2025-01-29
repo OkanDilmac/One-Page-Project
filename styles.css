@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f8f1e4;
+    color: #5a3e2b;
+}
+
+header {
+    background-color: #8c4a2f;
+    color: white;
+    padding: 40px 20px;
+}
+
+.about, .contact {
+    padding: 50px 20px;
+}
+
+.about {
+    background-color: #eed9c4;
+}
+
+.contact {
+    background-color: #d7b89c;
+}
+
+a {
+    color: #5a3e2b;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #8c4a2f;
+}
+
+footer {
+    background-color: #5a3e2b;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
